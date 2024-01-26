@@ -30,3 +30,5 @@ List of cool AI related things
 
 ## Prompting
 - [Prompting Guide](https://www.promptingguide.ai/) - Guide to prompting
+
+- [LangChain](https://js.langchain.com/docs/get_started/introduction) - Yeah
