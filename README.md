@@ -14,7 +14,9 @@ List of cool AI related things
 ## Embeddings
 - [VoyageAI](https://www.voyageai.com/) - Highly ranked models for embedding text and code
 - [Embedding Projector](https://projector.tensorflow.org/) - Tensorflow embedding projector for visualizing vectors
+### Chunking
 - [Chunking Strategies](https://www.pinecone.io/learn/chunking-strategies/) - Article on ways to determine chunking strategy for embedding
+- [A Chunk by any other name](https://blog.langchain.dev/a-chunk-by-any-other-name/)
 
 ## Vector DBs
 - [Milvus](https://milvus.io/) - OpenSource vector db
