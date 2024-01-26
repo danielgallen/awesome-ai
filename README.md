@@ -19,6 +19,10 @@ List of cool AI related things
 
 ## Code generation
 - [Builder](https://www.builder.io/) - Figma to code
+- [LATs](https://andyz245.github.io/LanguageAgentTreeSearch/) - SOTA Code generation
 
 ## Image Processing
 - [Vision Transformer](https://github.com/google-research/vision_transformer) - Google image classification
+
+## Prompting
+- [Prompting Guide](https://www.promptingguide.ai/) - Guide to prompting
