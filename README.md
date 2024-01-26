@@ -8,6 +8,7 @@ List of cool AI related things
 - [Vector DBs](#vector-dbs)
 
 ## Learning
+- [Papers With Code](https://paperswithcode.com/) - Collection of academic papers with accompanying code
 
 ## Embeddings
 - [VoyageAI](https://www.voyageai.com/) - Highly ranked models for embedding text and code
