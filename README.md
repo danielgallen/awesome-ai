@@ -1,4 +1,4 @@
-# awesome-ai
+# Awesome AI
 List of cool AI related things
 
 ## Contents
