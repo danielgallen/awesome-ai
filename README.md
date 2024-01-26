@@ -19,3 +19,6 @@ List of cool AI related things
 
 ## Code generation
 - [Builder](https://www.builder.io/) - Figma to code
+
+## Image Processing
+- [Vision Transformer](https://github.com/google-research/vision_transformer) - Google image classification
