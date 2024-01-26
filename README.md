@@ -10,10 +10,12 @@ List of cool AI related things
 ## Learning
 - [Papers With Code](https://paperswithcode.com/) - Collection of academic papers with accompanying code
 - [ClippyGPT (ROG)](https://www.youtube.com/watch?v=Yhtjd7yGGGA) - Tutorial on how to use embeddings with GPT
+- [Retrieval Augmented Generation (RAG)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 
 ## Embeddings
 - [VoyageAI](https://www.voyageai.com/) - Highly ranked models for embedding text and code
 - [Embedding Projector](https://projector.tensorflow.org/) - Tensorflow embedding projector for visualizing vectors
+
 ### Chunking
 - [Chunking Strategies](https://www.pinecone.io/learn/chunking-strategies/) - Article on ways to determine chunking strategy for embedding
 - [A Chunk by any other name](https://blog.langchain.dev/a-chunk-by-any-other-name/)
