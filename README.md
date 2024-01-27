@@ -40,11 +40,18 @@ List of cool AI related things
 ## Prompting
 - [Prompting Guide](https://www.promptingguide.ai/) - Guide to prompting
 
+## Training
+- [FastAi](https://docs.fast.ai/) - Fast Ai framework for pytorch
+
 ## Evaluation
 - [Ragas](https://docs.ragas.io/en/stable/) - Evaluate RAG performance
 
 ## Validation
 - [Pydantic](https://docs.pydantic.dev/latest/) - Validation
+
+## Observation
+- [LangSmith](https://www.langchain.com/langsmith)
+- 
 
 ## Deployment
 - [LangChain](https://js.langchain.com/docs/get_started/introduction)
