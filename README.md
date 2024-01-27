@@ -7,6 +7,9 @@ List of cool AI related things
 - [Embeddings](#embeddings)
 - [Vector DBs](#vector-dbs)
 
+## Data
+- [HuggingFace](https://huggingface.co/) - Models, datasets, papers. Key website for ai in general.
+
 ## Learning
 - [Papers With Code](https://paperswithcode.com/) - Collection of academic papers with accompanying code
 - [ClippyGPT (ROG)](https://www.youtube.com/watch?v=Yhtjd7yGGGA) - Tutorial on how to use embeddings with GPT
