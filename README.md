@@ -51,7 +51,7 @@ List of cool AI related things
 
 ## Observation
 - [LangSmith](https://www.langchain.com/langsmith)
-- 
+- [LangFuse](https://langfuse.com/)
 
 ## Deployment
 - [LangChain](https://js.langchain.com/docs/get_started/introduction)
