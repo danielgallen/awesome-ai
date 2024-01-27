@@ -37,5 +37,8 @@ List of cool AI related things
 
 - [LangChain](https://js.langchain.com/docs/get_started/introduction) - Yeah
 
+## Evaluation
+- [Ragas](https://docs.ragas.io/en/stable/) - Evaluate RAG performance
+
 ## Validation
 - [Pydantic](https://docs.pydantic.dev/latest/) - Validation
