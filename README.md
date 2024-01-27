@@ -7,7 +7,7 @@ List of cool AI related things
 - [Embeddings](#embeddings)
 - [Vector DBs](#vector-dbs)
 
-## Data
+## Models
 - [HuggingFace](https://huggingface.co/) - Models, datasets, papers. Key website for ai in general.
 
 ## Learning
@@ -28,6 +28,7 @@ List of cool AI related things
 
 ## Vector DBs
 - [Milvus](https://milvus.io/) - OpenSource vector db
+- [Qdrant](https://qdrant.tech/) - Opensource vector db written in Rust
 
 ## Code generation
 - [Builder](https://www.builder.io/) - Figma to code
@@ -39,10 +40,11 @@ List of cool AI related things
 ## Prompting
 - [Prompting Guide](https://www.promptingguide.ai/) - Guide to prompting
 
-- [LangChain](https://js.langchain.com/docs/get_started/introduction) - Yeah
-
 ## Evaluation
 - [Ragas](https://docs.ragas.io/en/stable/) - Evaluate RAG performance
 
 ## Validation
 - [Pydantic](https://docs.pydantic.dev/latest/) - Validation
+
+## Deployment
+- [LangChain](https://js.langchain.com/docs/get_started/introduction)
