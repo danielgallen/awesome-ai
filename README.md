@@ -11,6 +11,7 @@ List of cool AI related things
 - [HuggingFace](https://huggingface.co/) - Models, datasets, papers. Key website for ai in general.
 
 ## Learning
+- [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again
 - [Papers With Code](https://paperswithcode.com/) - Collection of academic papers with accompanying code
 - [ClippyGPT (ROG)](https://www.youtube.com/watch?v=Yhtjd7yGGGA) - Tutorial on how to use embeddings with GPT
 - [Retrieval Augmented Generation (RAG)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
