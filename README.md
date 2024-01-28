@@ -22,6 +22,7 @@ List of cool AI related things
 - [Retrieval Augmented Generation (RAG)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 - [TSNE](https://distill.pub/2016/misread-tsne/) - How to read TSNE plots
 - [UMAP](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html) - How UMAP works
+- [StatQuest](https://www.youtube.com/@statquest) - Great educational videos about statistics
 
 ## Embeddings
 - [VoyageAI](https://www.voyageai.com/) - Highly ranked models for embedding text and code
