@@ -10,6 +10,10 @@ List of cool AI related things
 ## Models
 - [HuggingFace](https://huggingface.co/) - Models, datasets, papers. Key website for ai in general.
 - [Semantic Router](https://github.com/aurelio-labs/semantic-router) - Layer for LLMs to make tool use decisions
+- [Magicoder 6.7B](https://huggingface.co/ise-uiuc/Magicoder-S-DS-6.7B) - Instruct coding model that performs incredibly well for its size
+
+## Benchmarks
+- [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html) - Coding benchmarks for LLMs
 
 ## Learning
 - [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again
