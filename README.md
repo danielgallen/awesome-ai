@@ -16,6 +16,7 @@ List of cool AI related things
 
 ## Frameworks
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Framework for augmenting LLMs with data
+- [LangChain](https://js.langchain.com/docs/get_started/introduction)
 
 ## Benchmarks
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html) - Coding benchmarks for LLMs
@@ -65,6 +66,3 @@ List of cool AI related things
 ## Observation
 - [LangSmith](https://www.langchain.com/langsmith)
 - [LangFuse](https://langfuse.com/)
-
-## Deployment
-- [LangChain](https://js.langchain.com/docs/get_started/introduction)
