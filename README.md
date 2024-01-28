@@ -35,6 +35,7 @@ List of cool AI related things
 ## Embeddings
 - [VoyageAI](https://www.voyageai.com/) - Highly ranked models for embedding text and code
 - [Embedding Projector](https://projector.tensorflow.org/) - Tensorflow embedding projector for visualizing vectors
+- [Nomic Atlas](https://atlas.nomic.ai/) - Visualisations
 
 ### Chunking
 - [Chunking Strategies](https://www.pinecone.io/learn/chunking-strategies/) - Article on ways to determine chunking strategy for embedding
