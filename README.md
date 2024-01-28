@@ -23,6 +23,7 @@ List of cool AI related things
 - [TSNE](https://distill.pub/2016/misread-tsne/) - How to read TSNE plots
 - [UMAP](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html) - How UMAP works
 - [StatQuest](https://www.youtube.com/@statquest) - Great educational videos about statistics
+- [LLM Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) - Academic reading list on LLMs
 
 ## Embeddings
 - [VoyageAI](https://www.voyageai.com/) - Highly ranked models for embedding text and code
