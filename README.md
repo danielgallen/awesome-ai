@@ -24,6 +24,7 @@ List of cool AI related things
 - [UMAP](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html) - How UMAP works
 - [StatQuest](https://www.youtube.com/@statquest) - Great educational videos about statistics
 - [LLM Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) - Academic reading list on LLMs
+- [OpenAI SpinningUp](https://spinningup.openai.com/en/latest/user/introduction.html) - RL learning resource. Also potentially references Q* model that's been teased.
 
 ## Embeddings
 - [VoyageAI](https://www.voyageai.com/) - Highly ranked models for embedding text and code
