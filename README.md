@@ -66,3 +66,6 @@ List of cool AI related things
 ## Observation
 - [LangSmith](https://www.langchain.com/langsmith)
 - [LangFuse](https://langfuse.com/)
+
+## Applications
+- [CartBuddyGPT](https://cartbuddygpt.com/) - For searching for the best products
