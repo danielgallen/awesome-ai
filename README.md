@@ -18,7 +18,6 @@ List of cool AI related things
 ## Learning
 - [Fast.ai](https://www.fast.ai/) - Making neural nets uncool again
 - [Papers With Code](https://paperswithcode.com/) - Collection of academic papers with accompanying code
-- [ClippyGPT (ROG)](https://www.youtube.com/watch?v=Yhtjd7yGGGA) - Tutorial on how to use embeddings with GPT
 - [Retrieval Augmented Generation (RAG)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 - [TSNE](https://distill.pub/2016/misread-tsne/) - How to read TSNE plots
 - [UMAP](https://umap-learn.readthedocs.io/en/latest/how_umap_works.html) - How UMAP works
