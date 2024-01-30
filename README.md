@@ -1,12 +1,6 @@
 # Awesome AI
 List of cool AI related things
 
-## Contents
-
-- [Learning](#learning)
-- [Embeddings](#embeddings)
-- [Vector DBs](#vector-dbs)
-
 ## Models
 - [HuggingFace](https://huggingface.co/) - Models, datasets, papers. Key website for ai in general.
 - [Semantic Router](https://github.com/aurelio-labs/semantic-router) - Layer for LLMs to make tool use decisions
